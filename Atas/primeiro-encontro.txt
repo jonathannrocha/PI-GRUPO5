@@ -1,0 +1,44 @@
+Grupo 5 - Pardais- Ata da reunião do dia 11/10/2023, na melhor aula de quarta-feira (ES)
+
+
+Ideias:
+
+Site avaliação de professores
+Site para criação de grupos de estudo
+Sistema com enfoque no ensino de técnologia para crianças
+Mentoria de estudantes para outros estudantes
+
+Materias chave: 
+
+Eng. Software I, Desenvolv. Web e Design
+
+
+
+Especificação de Requisitos.
+
+Tecnologia ao alcance todos
+
+Este projeto pretende desenvolver um canal de interação e popularização das teconologias de informação para o público em geral com o objetivo de incentivar o interesse por carreiras de ciência de dados.
+Trata-se de um site com design interativo e intuitivo com uma linguagem acessível para utilização por escolas privadas e publicas.
+
+
+Categorias:
+	infraestrutura
+	dados
+	desenvolvimento (programação)
+	Manutenção de hardware
+Jogos
+Quizz
+
+Disponibilizar 
+
+Este projeto destina-se ao acesso geral, de todos que interesse em tecnologia da informação, mas com enfoque de disponibilizar uma ferramenta pedagógica para o ensino em sala de aula no ensino básico e fundamental. 
+As escolas poderão se cadastrarem e cadastrarem os professores que tenham interesse na utilização da ferramenta para apoio pedagógico para as aulas.
+
+Eleito Jonathan como PO.
+
+ Membros do Grupo 5 - dos Pardais:
+Christian Rocha
+Jonathan Rocha
+Flávio Luís
+Luíz Antônio de Freitas
