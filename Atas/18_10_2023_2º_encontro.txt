@@ -10,3 +10,6 @@ Estimular a interação entre
 A empresa tem como clientes:
 
 Estudantes do ensino fundamental e médio
+
+Link do caso de uso:
+https://lucid.app/documents/view/50769ba0-113b-41da-a76c-de25be754a87
