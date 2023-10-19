@@ -9,7 +9,42 @@ Estimular a interação entre
 
 A empresa tem como clientes:
 
-Estudantes do ensino fundamental e médio
+Alunos do ensino fundamental e médio
+Escolas privadas
+Escolas públicas 
+Professores
+
+Os clientes farão o cadastro pelo site.
+O serviço será pago para as escolas privadas e será gratuito para as escolas públicas.
+
+O acesso ao conteúdo será por meio de login e senha:
+
+A escola:
+
+A escola será cadastrada e autenticada para utilização do conteúdo por um ano letivo, que poderá ser renovado sucessivamente a cada ano letivo.
+A escola cadastrará os professores, as turmas, os alunos e os pais dos alunos no site.
+
+O professor:
+
+Os professores terão acesso para liberar as atividades para os alunos nos momentos planejados durante a aula.
+O professor terá que autorizar o aluno a se cadastrar no site;
+O professor poderá suspender o acesso do aluno no site;
+O professor poderá cancelar o acesso do aluno às atividades no site;
+O professor lançará as notas dos alunos no site;
+
+O aluno:
+O aluno, depois de obter o código de autorização, fará o cadastro no site e será identificado pelo número da matrícula e criará a senha para o acesso às atividades.
+
+Os pais:
+
+Quando o aluno tiver idade menor ou igual a 12 anos, poderão ser cadastrados o pai e a mãe, ou um outro, conforme for definido pelo responsável pelo aluno, para acessar e acompanhar o desempenho do aluno;
+
+Quando o aluno for maior de 12 anos e menor do que 16 anos, poderão ser cadastrados o pai e a mãe, ou um ou outro, com o conhecimento do aluno;
+
+Os alunos, a partir de 16 anos, poderá ser cadastrado o pai e a mãe, ou um ou outro, se houver concordância do adolescente.
+
+Terceiros interessados.
+
 
 Link do caso de uso:
 https://lucid.app/documents/view/50769ba0-113b-41da-a76c-de25be754a87
