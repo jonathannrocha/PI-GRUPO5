@@ -29,7 +29,7 @@ Categorias:
 	Manutenção de hardware
 Jogos
 Quizz
-
+Site: https://www.canva.com/design/DAFxqA1IvO0/NwsRIbHRnuCyPJu1Wo_C7g/edit?utm_content=DAFxqA1IvO0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 Disponibilizar 
 
 Este projeto destina-se ao acesso geral, de todos que interesse em tecnologia da informação, mas com enfoque de disponibilizar uma ferramenta pedagógica para o ensino em sala de aula no ensino básico e fundamental. 
