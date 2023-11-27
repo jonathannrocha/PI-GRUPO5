@@ -12,14 +12,9 @@
     1. Escola
     1. Professores
     1. Alunos
-* Controle de acesso 
-* Separação de conteúdo por Categoria
-    1. infraestrutura
-	1. dados
-	1. desenvolvimento (programação)
-	1. Manutenção de hardware
+* Cadastro de conteúdo
 * Direcionamento de contêudo como obrigatório
-* Painel de atividades obrigatórios ou realizadas 
+* Consultar atividades; 
 * Salvar resultado doas atividades
 
 
