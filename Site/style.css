@@ -36,6 +36,11 @@
       padding-right: 20px;
       padding-bottom: 15px;
       padding-left: 20px;
+
+      &:hover {
+        cursor: pointer;
+        background-color: #fccc3d;
+      }
   }
 
   .conteudo-img img {
@@ -292,6 +297,11 @@
           height: 51.5px;
           font-size: 25px;
           text-align: center;
+
+          &:hover {
+            cursor: pointer;
+            background-color: #fccc3d;
+          }
       }
       #cadastro {
           padding: 10px 0 20px;
